@@ -1,1 +1,2 @@
 Code exampleadd_line_and_staged 
+test_str 
